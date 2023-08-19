@@ -25,10 +25,8 @@ The "Communications" folder in this repository is where all pieces of evidence r
 
 ### Emails
 
-- [Client_Meeting_Minutes_2023-08-10.pdf](communications/emails)
-  - Description: Minutes of the client meeting discussing project scope.
-  - Participants: John (Client), [Your Name] (Team Member)
-  - Date and Time: 2023-08-10 3:00 PM
+- [Evidences](communications/emails)
+  - Description: Evidences of communication with the product owner.
 
 
 
