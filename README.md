@@ -5,7 +5,6 @@
 1. [Introduction](#introduction)
 2. [Communications Folder](#communications-folder)
 3. [Index of Communication Evidence](#index-of-communication-evidence)
-   - [Instant Messaging](#instant-messaging)
    - [Emails](#emails)
    - [Voice Messages/Recordings](#voice-messagesrecordings)
    - [Videos](#videos)
@@ -16,20 +15,13 @@
 
 ## Introduction
 
-Welcome to the official repository for [Your Team Name]. This repository serves as a central hub for communication evidence with our client throughout the development process.
+Welcome to the official repository for Falcon. This repository serves as a central hub for communication evidence with our client throughout the development process.
 
 ## Communications Folder
 
 The "Communications" folder in this repository is where all pieces of evidence related to communications with our client are stored. This includes instant messaging, emails, voice messages, videos, and any commitment/acceptance letters exchanged.
 
 ## Index of Communication Evidence
-
-### Instant Messaging
-
-- [Chat_Log_2023-08-15.txt](communications/instant_messaging/Chat_Log_2023-08-15.txt)
-  - Description: Discussion about project requirements.
-  - Participants: John (Client), Jane (Team Member)
-  - Date and Time: 2023-08-15 10:00 AM
 
 ### Emails
 
@@ -47,7 +39,7 @@ The "Communications" folder in this repository is where all pieces of evidence r
 
 ### Videos
 
-- [Demo_Video_2023-08-25.mp4](https://espolec-my.sharepoint.com/:v:/g/personal/leowipin_espol_edu_ec/ESUzI0DJjL9JmjGj8Jwq0qMB-aRAo_ynsDSk1AmswIQ3dQ)
+- [Video_with_product_owner_2023-08-16](communications/videos/Demo_Video_2023-08-25.mp4)
   - Description: Demonstration of the latest software features.
   - Participants: John (Client), [Your Name] (Team Member)
   - Date and Time: 2023-08-25 11:00 AM
