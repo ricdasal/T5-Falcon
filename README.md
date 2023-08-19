@@ -30,16 +30,20 @@ The "Communications" folder in this repository is where all pieces of evidence r
   - Participants: John (Client), [Your Name] (Team Member)
   - Date and Time: 2023-08-10 3:00 PM
 
-### Voice Messages/Recordings
-
-- [Voice_Message_2023-08-18.m4a](communications/voice_messages/Voice_Message_2023-08-18.m4a)
-  - Description: Clarification about user authentication process.
+- [Client_Meeting_Minutes_2023-08-10.pdf](communications/emails/Client_Meeting_Minutes_2023-08-10.pdf)
+  - Description: Minutes of the client meeting discussing project scope.
   - Participants: John (Client), [Your Name] (Team Member)
-  - Date and Time: 2023-08-18 2:30 PM
+  - Date and Time: 2023-08-10 3:00 PM
+
 
 ### Videos
 
-- [Video_with_product_owner_2023-08-16](communications/videos/Demo_Video_2023-08-25.mp4)
+- [Video_with_product_owner_2023-08-16](https://youtu.be/V_f8V-RYIbE)
+  - Description: Demonstration of the latest software features.
+  - Participants: John (Client), [Your Name] (Team Member)
+  - Date and Time: 2023-08-25 11:00 AM
+
+- [Project_Explain_video_2023-08-16](https://youtu.be/V_f8V-RYIbE)
   - Description: Demonstration of the latest software features.
   - Participants: John (Client), [Your Name] (Team Member)
   - Date and Time: 2023-08-25 11:00 AM
