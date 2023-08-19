@@ -10,9 +10,7 @@
    - [Voice Messages/Recordings](#voice-messagesrecordings)
    - [Videos](#videos)
    - [Commitment/Acceptance Letter](#commitmentacceptance-letter)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+
 
 ---
 
@@ -61,14 +59,3 @@ The "Communications" folder in this repository is where all pieces of evidence r
   - Participants: John (Client), [Your Name] (Team Member)
   - Date and Time: 2023-09-05 4:45 PM
 
-## Contributing
-
-Find out how you can contribute to the development of our project in the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries, feel free to contact us at [team@email.com].
