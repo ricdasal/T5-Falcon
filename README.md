@@ -47,7 +47,7 @@ The "Communications" folder in this repository is where all pieces of evidence r
 
 ### Videos
 
-- [Demo_Video_2023-08-25.mp4](communications/videos/Demo_Video_2023-08-25.mp4)
+- [Demo_Video_2023-08-25.mp4](https://espolec-my.sharepoint.com/:v:/g/personal/leowipin_espol_edu_ec/ESUzI0DJjL9JmjGj8Jwq0qMB-aRAo_ynsDSk1AmswIQ3dQ)
   - Description: Demonstration of the latest software features.
   - Participants: John (Client), [Your Name] (Team Member)
   - Date and Time: 2023-08-25 11:00 AM
