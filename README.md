@@ -38,15 +38,15 @@ The "Communications" folder in this repository is where all pieces of evidence r
 
 ### Videos
 
-- [Video_with_product_owner_2023-08-16](https://youtu.be/V_f8V-RYIbE)
+- [Video_with_product_owner_2023-08-16](https://youtu.be/vnjxrKBM2LY)
   - Description: Demonstration of the latest software features.
-  - Participants: John (Client), [Your Name] (Team Member)
-  - Date and Time: 2023-08-25 11:00 AM
+  - Participants: Juan Carlos Carrillo (Client), Leonardo Pincay (Team member), Ricardo Salazar (Team Member)
+  - Date and Time: 2023-08-16 20:00 AM
 
 - [Project_Explain_video_2023-08-16](https://youtu.be/V_f8V-RYIbE)
-  - Description: Demonstration of the latest software features.
-  - Participants: John (Client), [Your Name] (Team Member)
-  - Date and Time: 2023-08-25 11:00 AM
+  - Description: Explain Seproamerica Project.
+  - Participants: Leornardo Pincay (Team Member), Ricardo Salazar (Team Member)
+  - Date and Time: 2023-08-18 19:30 PM
 
 ### Commitment/Acceptance Letter
 
