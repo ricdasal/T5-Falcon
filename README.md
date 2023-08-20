@@ -6,7 +6,6 @@
 2. [Communications Folder](#communications-folder)
 3. [Index of Communication Evidence](#index-of-communication-evidence)
    - [Emails](#emails)
-   - [Voice Messages/Recordings](#voice-messagesrecordings)
    - [Videos](#videos)
    - [Commitment/Acceptance Letter](#commitmentacceptance-letter)
 
@@ -44,8 +43,8 @@ The "Communications" folder in this repository is where all pieces of evidence r
 
 ### Commitment/Acceptance Letter
 
-- [Project_Acceptance_Letter.pdf](communications/commitment_acceptance/Project_Acceptance_Letter.pdf)
-  - Description: Formal acceptance of the project scope and deliverables.
-  - Participants: John (Client), [Your Name] (Team Member)
-  - Date and Time: 2023-09-05 4:45 PM
+- [Project_Acceptance_Letter.pdf](communications/commitment_acceptance/commitment_acceptance.pdf)
+  - Description: Formal acceptance of the third and fourth sprints.
+  - Participants: Juan Carlos Carrillo (Client), Leonardo Pincay (Team Member), Ricardo Salazar (Team Member)
+  - Date: 2023-08-20
 
